@@ -22,6 +22,6 @@ Exported chat (**_"messagesXXX.html"_**) from Telegram (tested in Telegram Deskt
    ?>`
 3) run **_uniter.php_**;
 4) run **_strip.php_**;
-5) run **_result.php_**;
-6) open result file called **_counter.html_**.
+5) run **_counter.php_**;
+6) open result file called **_result.html_**.
 
