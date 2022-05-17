@@ -1,5 +1,5 @@
 # telegramMessageCounter
-Not very good message counter for telegram written in PHP
+Message counter for Telegram written in PHP
 
 ### In
 
